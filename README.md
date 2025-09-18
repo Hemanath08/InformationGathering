@@ -94,33 +94,33 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### ping command :
 ### Kali Linux:
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/0ecfdacd-2c69-4afb-8c1b-07806d1aadd8" />
+<img width="806" height="442" alt="image" src="https://github.com/user-attachments/assets/17b898ff-7c18-4698-a570-05c0f09ff11b" />
 
 ### Windows:
 <img width="1470" height="482" alt="image" src="https://github.com/user-attachments/assets/b36cfbb1-16d2-4c55-9023-a56ab0b1280e" />
 
 
 ### whois :
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/e28806bb-f24d-44e9-834e-eadead5649f3" />
-<img width="1918" height="327" alt="image" src="https://github.com/user-attachments/assets/eef7415d-d7f8-4845-a442-8ed9183d922f" />
+<img width="1905" height="733" alt="image" src="https://github.com/user-attachments/assets/4f3a339c-dee6-46be-b73c-932eb6c8d43b" />
+<img width="863" height="737" alt="image" src="https://github.com/user-attachments/assets/c41f6e40-d7bb-4c64-bd62-e0090552334a" />
 
 ### netcat :
-<img width="1917" height="391" alt="image" src="https://github.com/user-attachments/assets/0c598f28-83f9-459d-b231-33efc43d9fbb" />
+<img width="1195" height="491" alt="image" src="https://github.com/user-attachments/assets/da9cf7ae-6be9-4794-bf5e-141daab53c25" />
 
 ### nmap :
-<img width="1918" height="302" alt="image" src="https://github.com/user-attachments/assets/87919d8f-ab32-40d7-acd3-4dd25951c0f4" />
+<img width="1166" height="358" alt="image" src="https://github.com/user-attachments/assets/603afeec-4b5b-420a-a135-b4c8fec07aec" />
 
 ### whatweb :
-<img width="1918" height="192" alt="image" src="https://github.com/user-attachments/assets/238e0829-14b1-485d-bb3c-88c59f9276de" />
+<img width="1898" height="186" alt="image" src="https://github.com/user-attachments/assets/32223c7d-1d94-498b-9d56-63abcb3dac17" />
 
 ### httprint :
-<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/1c8ee702-7702-4345-9c1c-31a1f7d06b69" />
+<img width="1218" height="772" alt="image" src="https://github.com/user-attachments/assets/431fae01-e177-4482-9051-c02e579377ea" />
 
 ### TCP traceroute :
-<img width="1918" height="342" alt="image" src="https://github.com/user-attachments/assets/0b82904e-26ea-4f76-b870-9963698d14e0" />
+<img width="1900" height="457" alt="image" src="https://github.com/user-attachments/assets/faddc14f-dd4b-4f9e-9577-4e4968a3fe20" />
 
 ### UDP traceroute :
-<img width="1918" height="507" alt="image" src="https://github.com/user-attachments/assets/4f8103d9-fc73-4eeb-8bb2-96b4c6075273" />
+<img width="1147" height="516" alt="image" src="https://github.com/user-attachments/assets/f6fd8295-baa6-49c0-b619-84f74db88f4e" />
 
 
 ## RESULT:
